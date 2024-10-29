@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(to bottom, #4a90e2, #50e3c2); /* Gradient background */
+    font-family: 'Arial', sans-serif;
+}
+
+h2 {
+    color: #4a90e2; /* Header color */
+}
+
+table {
+    border: 1px solid #ccc; /* Table border */
+}
+
+th, td {
+    padding: 12px; /* Cell padding */
+}
+
+.bg-gray-100 {
+    background-color: #f7fafc; /* Light gray for table header */
+}
+
+.bg-gray-50 {
+    background-color: #f9fafb; /* Very light gray for alternating rows */
+}
+
+.list-disc {
+    margin-left: 1.5em; /* Indent for list items */
+}
